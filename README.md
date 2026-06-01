@@ -110,7 +110,9 @@ python 01_bronze/transaction_generator.py
 ```
 
 ---
+## 📈 Dashboard
 
+![FinGuard AI Dashboard](architecture/dashboard.png)
 ## 🌐 Interfaces
 
 | Service | URL |
