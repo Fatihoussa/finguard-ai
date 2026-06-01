@@ -1,4 +1,5 @@
 # 🏦 FinGuard AI
+![CI/CD](https://github.com/Fatihoussa/finguard-ai/actions/workflows/ci.yml/badge.svg)
 ### Real-Time FinTech Risk & Fraud Detection Lakehouse Platform
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
